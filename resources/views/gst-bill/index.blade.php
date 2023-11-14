@@ -28,7 +28,7 @@
                         <tr>
                             <th>S.No.</th>
                             <th>Invoice No</th>
-                            <th>Cielnt's Info</th>
+                            <th>Client's Info</th>
                             <th>Billing Info</th>
                             <th>Invoice Date</th>
                             <th class="hidden-sm">Action</th>
